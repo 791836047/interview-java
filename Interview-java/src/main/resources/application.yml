@@ -1,0 +1,7 @@
+server:
+  port: 8089
+
+#为什么引入不了pom.xml文件中的spring.profiles.active #spring.profiles.active#
+spring:
+  profiles:
+    active: local
